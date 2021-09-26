@@ -1,3 +1,11 @@
+Huy's Personalized Pure Prompt
+
+- [ ] Adding support for kube-ps1.
+
+---
+(_Below is the original README_)
+
+
 # Pure
 
 > Pretty, minimal and fast ZSH prompt
