@@ -1,6 +1,6 @@
-Huy's Personalized Pure Prompt
+# Huy's Personalized Pure Prompt
 
-- [ ] Adding support for kube-ps1.
+- [x] Adding support for kube-ps1.
 
 ---
 (_Below is the original README_)
